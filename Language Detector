@@ -1,5 +1,5 @@
 Language Detector
--------------------------------------------------------------
+------------------------------------------------------------
 pip install langdetect
 '''
 from langdetect import detect
