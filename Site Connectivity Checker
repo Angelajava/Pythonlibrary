@@ -4,7 +4,7 @@ Enter websites as http(s)://www.yourwebsite.com
 '''
 import urllib.request
 import tkinter as tk
-
+ 
 
 def test_connectivity():
   window = tk.Tk()
